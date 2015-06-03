@@ -1,0 +1,20 @@
+[vc_row][vc_column][vc_column_text]
+[rev_slider Talleres]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
+
+<strong>¿Qué es Servicio Chevrolet?</strong>
+
+&nbsp;
+
+Su Chevrolet permanecerá como nuevo sin importar el pasar del tiempo gracias al respaldo de los Talleres y Repuestos Genuinos que solo la marca #1 del país le puede ofrecer. Nadie más le puede dar lo que su Chevrolet necesita. Solo los fabricantes y su red de talleres autorizadas le pueden ofrecer la experiencia en vehículos Chevrolet, mano de obra calificada y tecnificada (+ de 67,000 horas acumuladas de capacitación), y la mayor tecnología; aseguran que al ingresar a nuestros Talleres, su auto será tratado con el mayor profesionalismo y cuidado que nos caracteriza. Nuestros asesores están capacitados para brindarle el mejor servicio y garantizarle una experiencia placentera. Lo más importante para nosotros es su satisfacción, contamos con un sistema de evaluación permanente de la calidad de servicio, lo que nos permite seguir mejorando día a día. Lo invitamos a comprobarlo.
+
+[/vc_column_text][vc_single_image image="739" img_link_target="_self" img_size="full"][/vc_column][vc_column width="1/2"][vc_column_text]
+
+<strong>Rapidez, Precio y Garantía.</strong>
+
+&nbsp;
+
+Pensando en su tiempo hemos diseñado un concepto de servicios de mecánica rápida garantizándole la mayor calidad, la mejor atención y un precio muy accesible, manteniendo la garantía de su Chevrolet. Le ofrecemos realizar trabajos de mantenimiento periódico de su vehículo, así como Cambios de Aceite, ABC de Motor y Frenos, entre otros servicios que usted puede elegir libremente. Sea parte del trabajo que realizamos y aprenda mientras observa todo lo que hacemos en su vehículo para dejarlo en óptimas condiciones de una manera rápida y divertida. En caso de que su vehículo sufra algún accidente y necesite ser reparado, no lo piense dos veces, los Talleres EcuaAuto Chevrolet siempre son su mejor opción. Nuestros Talleres cuentan con los mayores estándares de reparación, los mejores equipos de pintura y enderezado y el uso exclusivo de repuestos genuinos, que garantizarán que después de un siniestro su auto quede como nuevo. Además usted cuenta con el servicio de Asistencia Mecánica en el momento del siniestro, le enviaremos una grúa hasta el lugar donde lo requiera, la cual lo llevará al Taller Genuino más cercano donde personal calificado se encargará de darle el servicio y la asesoría que necesita.
+
+[/vc_column_text][/vc_column][/vc_row]
